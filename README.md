@@ -7,9 +7,13 @@
 
 #### Skills
 <div> 
-  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://github.com/waltenne" target="_blank"><img src="https://img.shields.io/badge/ShellScript-black?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Project Management-green?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Scrum-gray?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
+
 </div>
 
  <div>
